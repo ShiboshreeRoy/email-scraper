@@ -18,7 +18,7 @@ logger = logging.getLogger(__name__)
 # Hacker-themed ASCII art
 HACKER_ART = f"""
 {Fore.GREEN}
-    _   _            _      _____ _           _             
+  _   _            _      _____ _           _             
  | | | | __ _  ___| | __ |_   _| |__   __ _| | _____ _ __ 
  | |_| |/ _` |/ __| |/ /   | | | '_ \ / _` | |/ / _ \ '__|
  |  _  | (_| | (__|   <    | | | | | | (_| |   <  __/ |   

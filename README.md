@@ -1,7 +1,7 @@
 ```markdown
 # Email Scraper
 
-![Hacker Banner](https://via.placeholder.com/800x200.png?text=Email+Scraper+-+Hacker+Theme) <!-- Replace with an actual image if you have one -->
+![email_scraper](./demo/image.png) 
 
 A professional and advanced web scraping tool to extract email addresses from a target website and its linked pages. Built with Python, this tool is designed for ethical hacking, penetration testing, and data collection purposes.
 
@@ -63,7 +63,7 @@ This command will:
 
 ## Screenshots
 
-![Screenshot](https://via.placeholder.com/800x400.png?text=Screenshot+Placeholder) <!-- Replace with an actual screenshot if you have one -->
+![Screenshot](./demo/email_scraper.png) <!-- Replace with an actual screenshot if you have one -->
 
 ---
 
